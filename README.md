@@ -36,7 +36,7 @@
 
 # 1\. Clone \& Install
 
-# git clone https://github.com/harshitsingh4321/indore-route-planner.git
+# git clone https://github.com/Rajkumar1212-coder/indore-route-planner.git
 
 # cd indore-route-planner
 
@@ -167,5 +167,6 @@
 # 📄 License
 
 # MIT License - feel free to use this project!
+
 
 
